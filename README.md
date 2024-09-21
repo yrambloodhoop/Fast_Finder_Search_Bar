@@ -3,5 +3,5 @@ Developed  a user-friendly search bar that allows users to search for countries 
 Tools and Technologies:
 React: Use React for building the user interface and managing component-based front-end development,and create an attractive UI with CSS or by using external frameworks.
 
-{lease find below URL>
+Please find below URL>
 https://ramsing-searchbar-assignment.netlify.app/
